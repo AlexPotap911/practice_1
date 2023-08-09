@@ -97,7 +97,7 @@ body {
   display: none;
 }
 .slider {
-  background: url(./img/header_background.jpg) no-repeat center;
+  background: url(../img/header_background.jpg) no-repeat center;
   background-size: cover;
   min-height: 500px;
 }
