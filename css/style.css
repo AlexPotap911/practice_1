@@ -1,6 +1,6 @@
 
 @import url("https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Roboto:wght@400;500&display=swap");
-@import url(/css/fonts.css);
+@import url(css/fonts.css);
 
 body {
   /* font-family: 'Roboto', sans-serif; */
@@ -97,7 +97,7 @@ body {
   display: none;
 }
 .slider {
-  background: url(/img/header_background.jpg) no-repeat center;
+  background: url(img/header_background.jpg) no-repeat center;
   background-size: cover;
   min-height: 500px;
 }
@@ -274,7 +274,7 @@ body {
   margin-right: 60px;
 }
 .about {
-  background: url(/img/about.jpg) no-repeat;
+  background: url(img/about.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   min-height: 300px;
@@ -308,7 +308,7 @@ body {
 .form__inner {
   min-height: 460px;
   padding-bottom: 40px;
-  background: url(/img/form_women.png) no-repeat right;
+  background: url(img/form_women.png) no-repeat right;
 }
 .form__box {
   max-width: 850px;
@@ -411,7 +411,7 @@ body {
   float: right;
 }
 .advantages {
-  background: url(/img/advantages.jpg) no-repeat center;
+  background: url(img/advantages.jpg) no-repeat center;
   background-size: cover;
   min-height: 287px;
   padding: 55px 0 40px;
@@ -557,8 +557,6 @@ body {
 .news__slider-inner .slick-disabled::before {
   color: #dadada;
 }
-.footer {
-}
 .footer__content {
   background-color: #595959;
   padding: 20px 0 30px;
@@ -566,8 +564,6 @@ body {
 .footer__inner {
   display: flex;
   justify-content: space-between;
-}
-.container {
 }
 .footer__info {
   max-width: 360px;
